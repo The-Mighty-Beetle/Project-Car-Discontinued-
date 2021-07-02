@@ -1,5 +1,5 @@
 # Project_Car [Discontinued]
-This was a team project for creating a full fledged racing games in Unity game engine. The team consisted three member -
+This was a team project for creating a full fledged racing games in Unity game engine. The team consisted three members -
   Afzal
   Shakirul
   Golam Salehin
