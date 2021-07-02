@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 6b9e5deedb3030f4fa1b3539308f7587
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: bumper kit
+    100004: //RootNode
+    100006: Cylinder
+    100008: exhaut pipe
+    100010: front fog light
+    100012: front grill
+    100014: front light cover
+    100016: mirror
+    100018: rear light
+    100020: rubber_panel
+    100022: window_glass
+    400000: body
+    400002: bumper kit
+    400004: //RootNode
+    400006: Cylinder
+    400008: exhaut pipe
+    400010: front fog light
+    400012: front grill
+    400014: front light cover
+    400016: mirror
+    400018: rear light
+    400020: rubber_panel
+    400022: window_glass
+    2100000: No Name
+    2300000: body
+    2300002: bumper kit
+    2300004: Cylinder
+    2300006: exhaut pipe
+    2300008: front fog light
+    2300010: front grill
+    2300012: front light cover
+    2300014: mirror
+    2300016: rear light
+    2300018: rubber_panel
+    2300020: window_glass
+    3300000: body
+    3300002: bumper kit
+    3300004: Cylinder
+    3300006: exhaut pipe
+    3300008: front fog light
+    3300010: front grill
+    3300012: front light cover
+    3300014: mirror
+    3300016: rear light
+    3300018: rubber_panel
+    3300020: window_glass
+    4300000: bumper kit
+    4300002: front grill
+    4300004: front fog light
+    4300006: rear light
+    4300008: front light cover
+    4300010: window_glass
+    4300012: rubber_panel
+    4300014: body
+    4300016: mirror
+    4300018: exhaut pipe
+    4300020: Cylinder
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
