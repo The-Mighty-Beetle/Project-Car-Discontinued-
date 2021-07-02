@@ -1,5 +1,6 @@
 # Project_Car
-This is a team project for creating a racing games. The team consists three member at the current states -
+This was a team project for creating a full fledged racing games in Unity game engine. The team consisted three member -
   Afzal
-  Shakirl
-  Salehin
+  Shakirul
+  Golam Salehin
+This is a discontinued project now. We have moved to Unreal Engine 4.
